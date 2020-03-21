@@ -1,0 +1,5 @@
+Guillermo Salvador Barrón Sánchez. A01207945.
+¿Qué fue lo que más se te facilitó de la implementación de la vista?
+La lógica de obtención de datos. En este caso fue sencillo recordar el uso de la librería Ion para la conexión con APIs. Además, fue sencillo implementar en Kotlin la lógica para la transformación y presentación de los datos del API.
+¿Qué fue lo que más se te dificultó de la implementación de la vista?
+El uso de Material Design. Uno de las tareas que más consumió tiempo fue el usar un relative layout, pues los elementos no se desplegaban correctamente. Adicionalmente, ajustar los parametros de estilo y posición fue una tarea más tardada de lo planeado. Por último, la selección de un diseño que permitiera una visualización en las dos orientaciones del teléfono fue la tarea más complicada porque no era claro ver cuando ya estaba optimizado.
